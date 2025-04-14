@@ -22,7 +22,7 @@ Here's a quick overview of the tools and technologies I work with:
 ## 🚩 Key Projects
 Take a look at some of my favorite projects:
 
-### Constructing a Neural Network for Portfolio Optimization to Maximize Sharpe Ratio (GitHub URL)
+### Constructing a Fully-Connected Neural Network to Maximize Sharpe Ratio from Historical Technical Indicators (https://github.com/trevrugg/amath_482/tree/main/AMATH482Homework5)
 This report discusses the development and implementation of a Fully Connected Neural Network (FCN) to
 optimize portfolio weights for a selected basket of 20 stocks, aiming to maximize the Sharpe ratio on a test
 dataset. The project combines the principles of portfolio optimization with machine learning techniques,
