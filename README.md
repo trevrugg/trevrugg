@@ -22,8 +22,13 @@ Here's a quick overview of the tools and technologies I work with:
 ## 🚩 Key Projects
 Take a look at some of my favorite projects:
 
-### [Project Name 1](GitHub URL)
-A short description of the project, what it does, and any interesting features.
+### Constructing a Neural Network for Portfolio Optimization to Maximize Sharpe Ratio (GitHub URL)
+This report discusses the development and implementation of a Fully Connected Neural Network (FCN) to
+optimize portfolio weights for a selected basket of 20 stocks, aiming to maximize the Sharpe ratio on a test
+dataset. The project combines the principles of portfolio optimization with machine learning techniques,
+leveraging advanced loss functions to achieve the objective. Key insights are drawn from computational
+experiments, where adjustments in hyperparameters—such as learning rate, batch size, and epochs—were
+critical in stabilizing the training process and enhancing the model’s generalization performance.
 
 ### [Project Name 2](GitHub URL)
 Another short description, emphasizing your role and the problem it solves.
