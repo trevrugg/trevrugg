@@ -30,17 +30,10 @@ leveraging advanced loss functions to achieve the objective. Key insights are dr
 experiments, where adjustments in hyperparameters—such as learning rate, batch size, and epochs—were
 critical in stabilizing the training process and enhancing the model’s generalization performance.
 
-### [Project Name 2](GitHub URL)
-Another short description, emphasizing your role and the problem it solves.
-
-### [Project Name 3](GitHub URL)
-An intriguing project that shows off your versatility and creativity.
-
 ---
 
 ## ✉️ Let's Connect
-- Portfolio: [Your Portfolio URL](https://example.com)
-- LinkedIn: [Your LinkedIn URL](https://linkedin.com/in/example)
-- Email: [Your Email](mailto:example@example.com)
+- LinkedIn: https://www.linkedin.com/in/trevor-ruggeri-304340255/ 
+- Email: trsurf28@gmail.com
 
 ---
