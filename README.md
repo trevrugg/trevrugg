@@ -48,7 +48,7 @@ experiments, where adjustments in hyperparameters—such as learning rate, batch
 critical in stabilizing the training process and enhancing the model’s generalization performance.
 
 ### Studying Computational Efficiency of FFT's in Numerical Solutions of PDE's (https://github.com/trevrugg/amath_481/tree/main/AMATH481Homework5)
-This project explores the use of Fast Fourier Transforms (FFT's) in derivative calculations in Python. Through solving Vorticity Streamfunction equations, we examine how friendly derivative identities in the frequency space, coupled with extremely efficient FFT and IFFT functions in Python, allow us to solve complex systems of partial differential equations while limiting execution time. Through our findings, we're able to study how complex initial vorticies evolve over time as governed by the system of PDE's.
+This project explores the use of Fast Fourier Transforms (FFT's) in derivative calculations in Python. Through solving time-evolving Vorticity Streamfunction PDE's, we examine how derivative identities in the frequency space, coupled with extremely efficient FFT and IFFT functions in Python, allow us to solve complex systems of partial differential equations while limiting execution time. Through our findings, we're able to study how complex initial vorticies evolve over time as governed by the system of PDE's.
 
 ---
 
