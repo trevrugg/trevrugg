@@ -38,6 +38,7 @@ Key features include:
 - Visualizations of fare evolution, demand patterns, ticket sales, and revenue by class
 
 This project combines statistical modeling, optimization logic, and real-world pricing behavior in a flexible Python simulation framework.
+
 ### Constructing a Fully-Connected Neural Network to Maximize Sharpe Ratio from Historical Technical Indicators (https://github.com/trevrugg/amath_482/tree/main/AMATH482Homework5)
 This report discusses the development and implementation of a Fully Connected Neural Network (FCN) to
 optimize portfolio weights for a selected basket of 20 stocks, aiming to maximize the Sharpe ratio on a test
@@ -45,6 +46,9 @@ dataset. The project combines the principles of portfolio optimization with mach
 leveraging advanced loss functions to achieve the objective. Key insights are drawn from computational
 experiments, where adjustments in hyperparameters—such as learning rate, batch size, and epochs—were
 critical in stabilizing the training process and enhancing the model’s generalization performance.
+
+### Studying Computational Efficiency of FFT's in Numerical Solutions of PDE's (https://github.com/trevrugg/amath_481/tree/main/AMATH481Homework5)
+This project explores the use of Fast Fourier Transforms (FFT's) in derivative calculations in Python. Through solving Vorticity Streamfunction equations, we examine how friendly derivative identities in the frequency space, coupled with extremely efficient FFT and IFFT functions in Python, allow us to solve complex systems of partial differential equations while limiting execution time. Through our findings, we're able to study how complex initial vorticies evolve over time as governed by the system of PDE's.
 
 ---
 
