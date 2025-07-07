@@ -6,7 +6,7 @@
 ---
 
 ## 📜 About Me
-I'm a recent graduate from the University of Washington with a B.S. in Mathematics and Computational Finance & Risk Management. I have aspirations of a career in pricing analytics, quantitative finance, actuarial science, and data analytics. My time in school was largely spent constructing proofs, coding, and serving as a three-year captain of the Washington Men's Gymnastics Team, a self-funded program that competes on the national level.
+I'm a recent graduate from the University of Washington with a B.S. in Mathematics and Computational Finance & Risk Management. I have aspirations of a career in pricing analytics, quantitative finance, actuarial science, or data analytics. My time in school was largely spent constructing proofs, coding, and serving as a three-year captain of the Washington Men's Gymnastics Team, a self-funded program that competes on the national level.
 
 ---
 
