@@ -34,6 +34,6 @@ critical in stabilizing the training process and enhancing the model’s general
 
 ## ✉️ Let's Connect
 - LinkedIn: https://www.linkedin.com/in/trevor-ruggeri-304340255/ 
-- Email: trsurf28@gmail.com
+- Email: trevorruggeri02@gmail.com
 
 ---
