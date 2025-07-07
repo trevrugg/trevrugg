@@ -13,7 +13,7 @@ I'm a graduating Mathematics and Computational Finance & Risk Management student
 ## 🔧 Technical Tools
 Here's a quick overview of the tools and technologies I work with:
 
-- **Languages**: Python, Java, R, MATLAB
+- **Languages**: Python, R, C++, MATLAB
 - **Libraries and Frameworks**: Numpy, Pandas, Scikit-Learn, PyTorch
 - **Tools**: Excel, LaTeX
 
