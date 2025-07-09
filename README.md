@@ -53,7 +53,7 @@ This project explores the use of Fast Fourier Transforms (FFT's) in derivative c
 ---
 
 ## ✉️ Let's Connect
-- LinkedIn: https://www.linkedin.com/in/trevor-ruggeri-304340255/ 
+- LinkedIn: https://www.linkedin.com/in/trevor-ruggeri/
 - Email: trevorruggeri02@gmail.com
 
 ---
